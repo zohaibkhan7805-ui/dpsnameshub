@@ -1,6 +1,10 @@
 const gifs = [
 
 {
+ title: "Funny GIF #6",
+image: "images/gif6.gif"
+ },
+ {
  title: "Funny GIF #1",
 image: "images/gif5.gif"
  },
