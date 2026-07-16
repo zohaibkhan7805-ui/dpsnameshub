@@ -1,6 +1,6 @@
 const dps = [
 {
-    title: " Music Queen",
+    title: " cute girl",
 image: "images/cute girl.jpg"
 },
 
